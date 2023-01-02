@@ -1,4 +1,4 @@
-# 올 겨울 스팀게임
+# ❄올 겨울 스팀게임❄
 
 ## 1. 스타듀벨리
 
@@ -15,7 +15,7 @@
 <br><br><br>
 
 
-### 2. 테라리아
+## 2. 테라리아
 ![d8eaca4ce723477702443fc4f9534625](https://user-images.githubusercontent.com/78081827/210222101-af93d012-a9ac-4e0b-80b3-df5fd671e9c6.jpg)
 ![20220929171632](https://user-images.githubusercontent.com/78081827/210222182-0cb3aa07-8cbb-49de-8162-1cbdb3ca9ffd.jpg)
 
@@ -23,7 +23,7 @@
 집을 지을 때는 2D라는 특징 덕분에 상당히 간단하다. 그냥 적절히 사각형으로 만들면 끝. 물론 일반적인 사각형 집을 지어도 무방하지만, 아무래도 게임이 게임인 만큼 자기 마음에 드는 독특한 집을 짓는 데 공을 들이게 되기 마련이다. <br><br>
 전투의 비중이 높다. 이외에도 수십 종의 보스 몬스터가 등장하며, 보스 몬스터를 잡아야만 얻을 수 있는 아이템들이 있어 반드시 잡게 된다.<br><br> <br>
 
-### 3. 굶지마!
+## 3. 굶지마!
 ![maxresdefault](https://user-images.githubusercontent.com/78081827/210222382-ec7cb1d3-4333-4706-92c0-3afe9cb18e2c.jpg)
 ![img1 daumcdn](https://user-images.githubusercontent.com/78081827/210222410-e91870d1-9f1e-4921-9906-aaddfc94fcf1.jpg)
 
